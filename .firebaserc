@@ -1,0 +1,11 @@
+{
+  "projects": {
+    "default": "work-call-denmark"
+  },
+  "targets": {},
+  "etags": {
+    "work-call-denmark": {
+      "extensionInstances": {}
+    }
+  }
+}

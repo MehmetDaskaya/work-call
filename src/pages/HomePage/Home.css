@@ -1,0 +1,32 @@
+/* Home.css */
+
+.HomePage {
+  text-align: center;
+}
+
+.HomePage-header {
+  background-color: #282c34;
+  padding: 20px;
+  color: white;
+}
+
+main {
+  padding: 20px;
+}
+
+.JobListings {
+  text-align: left;
+}
+
+.JobCard {
+  border: 1px solid #ddd;
+  padding: 10px;
+  margin-bottom: 15px;
+}
+
+footer {
+  margin-top: 20px;
+  background-color: #282c34;
+  padding: 10px;
+  color: white;
+}
